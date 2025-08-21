@@ -1,10 +1,10 @@
-Title
+Title: 
 Student Performance Analysis Using Python.
 
-Description
+Description: 
 The purpose of this project is to use Python to analyze and visualize students' academic performance. Students' names and subject-specific grades are taken from a sizable CSV dataset from kaggle.
 
-Objectives
+Objectives: 
 Process and import student information from a CSV file.
 Handle missing or invalid values.
 Calculate each student's average and total grades.
